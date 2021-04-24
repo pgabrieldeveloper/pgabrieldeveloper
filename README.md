@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi dear 👋 , I'm Mayk Brito
+💻 information systems - UFS
+👨‍💻 Back-end Developer 
+🌱 I’m currently learning java
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgabrieldeveloper)](https://github.com/anuraghazra/github-readme-stats)
 
