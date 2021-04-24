@@ -1,11 +1,11 @@
 ### Hi dear 👋 , I'm Mayk Brito
-💻 information systems - UFS
-👨‍💻 Back-end Developer 
-🌱 I’m currently learning java
+💻 information systems - UFS <br>
+👨‍💻 Back-end Developer <br>
+🌱 I’m currently learning java <br>
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiilan)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgabrieldeveloper)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pgabrieldeveloper/pgabrieldeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
