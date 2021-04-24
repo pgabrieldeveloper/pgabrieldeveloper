@@ -1,4 +1,4 @@
-### Hi dear 👋 , I'm Mayk Brito
+### Hi dear 👋 , I'm Paulo Gabriel
 💻 information systems - UFS <br>
 👨‍💻 Back-end Developer <br>
 🌱 I’m currently learning java <br>
