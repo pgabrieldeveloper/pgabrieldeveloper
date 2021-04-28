@@ -3,12 +3,8 @@
 👨‍💻 Back-end Developer <br>
 🌱 I’m currently learning java <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgabrieldeveloper)](https://github.com/anuraghazra/github-readme-stats)
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgabrieldeveloper&repo=convoychat" />
-</a>
+
 
 <!--
 **pgabrieldeveloper/pgabrieldeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
